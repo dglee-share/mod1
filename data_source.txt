@@ -1,0 +1,29 @@
+https://www.data.go.kr/
+	전국자동심장충격기표준데이터
+	전국개별공시지가정보표준데이터
+	전국무인교통단속카메라표준데이터
+
+https://kosis.kr/
+	헌혈 - 대한적십자사
+	자동차보험진료비통계
+	과학기술정보통신부 - 데이터 산업현황 조사
+
+https://stat.molit.go.kr/portal/main/portalMain.do
+	국가교통조사
+	- 지역간 통행량
+
+https://data.busan.go.kr/statData/list.nm
+https://kcorpus.korean.go.kr/
+https://data.kma.go.kr
+https://www.weather.go.kr
+http://www.petroleum.or.kr/ko/
+
+
+https://www.kaggle.com/datasets
+https://archive.ics.uci.edu/ml/index.php
+https://fred.stlouisfed.org/
+
+
+
+
+
